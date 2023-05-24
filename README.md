@@ -44,6 +44,9 @@ and 15 minutes for converting to a function._
 
 ### Task 2
 
+When running `task2.py`, an automated Selenium browser is opening and all links
+are scraped one by one. After completing, the browser will be closed automatically.
+
 For the first run of `task2.py` the first report `task2_report.csv` is created in the 
 project directory and notification about first report creation is sent to Telegram.
 
